@@ -2,15 +2,16 @@
 #define SCALE_H
 #include<vector>
 
-class Scale
+class Scale //Is used to generate a scale
 {
-    std::vector<int> Scalenotes;
+    std::vector<int> Scalenotevals;
     bool Ismajor;
 public:
     Scale(int key, bool ismajor); //build up a major/minor scale using a rootnote ('key')
-    int getscalenote(int step)  {return Scalenotes[step];}
-    bool getmodus()             {return Ismajor;}
-    void print();               //print scale notes and major/minor
+
+    int getscalenoteval(int step)   {return Scalenotevals[step-1];}
+    bool getmodus()                 {return Ismajor;}
+    void print();                   //print scale notes and major/minor
 };
 
 #endif // SCALE_H

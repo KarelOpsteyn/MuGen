@@ -10,8 +10,10 @@ class Chord
 public:
     Chord();
 
-    void Setnote(Note& note, int& voice);
-    //Chord Addchord(int& newgrade, Scale& scale);
+    //void Setnote(Note& note, int& voice);
+    void Setchord(int& grade, Scale& scale);
+    Note getbas()   {return Chordnotes[0];};
+    //bool Checkchord(Chord& prevch);
 };
 
 #endif // CHORD_H
