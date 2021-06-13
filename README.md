@@ -18,15 +18,15 @@ Sequence diagram:
 # Links
 some usefull links to learn about the MIDI protocol:
 
-Note numbers: 				    https://web.archive.org/web/19990502193435/http://harmonycentral.com/MIDI/Doc/table2.html
+Note numbers: 				https://web.archive.org/web/19990502193435/http://harmonycentral.com/MIDI/Doc/table2.html
 
-Status&Data Bytes: 			  https://web.archive.org/web/20000407192000/http://www.harmonycentral.com/MIDI/Doc/table1.html
+Status&Data Bytes: 			https://web.archive.org/web/20000407192000/http://www.harmonycentral.com/MIDI/Doc/table1.html
 
-Specifiction Data summary:https://web.archive.org/web/20000411015743/http://www.harmonycentral.com/MIDI/Doc/table4.html
+Specifiction Data summary: 		https://web.archive.org/web/20000411015743/http://www.harmonycentral.com/MIDI/Doc/table4.html
 
-Midi messages: 				    https://www.midi.org/articles/about-midi-part-3-midi-messages
+Midi messages: 				https://www.midi.org/articles/about-midi-part-3-midi-messages
 
 
-The midifile class was not made by me, check it ou here:
+The midifile class was not made by me, check it out here:
 
-github: 					https://github.com/craigsapp/midifile
+github: 				https://github.com/craigsapp/midifile
