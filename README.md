@@ -3,6 +3,8 @@ A cpp program made in Qt environment that primarily generates 'random' music usi
 
 The program has 2 main functionalities: It can generate entirely 'random' music, or can generate music on top of an existing bass line. the program will output the result in a MIDI-file.
 
+for now it is capable of generating music using I, IV, V chords in all keys.
+
 # Usecase, class and sequence diagrams
 Note that these are not the cleanest of diagrams, but they do the job.
 
