@@ -1,5 +1,5 @@
 # MuGen
-A cpp program made in Qt environment that primarily generates 'random' music using classical music theory rules.
+A cpp program made in a Qt environment that primarily generates 'random' music using classical music theory rules.
 
 The program has 2 main functionalities: It can generate entirely 'random' music, or can generate music on top of an existing bass line. the program will output the result in a MIDI-file.
 
