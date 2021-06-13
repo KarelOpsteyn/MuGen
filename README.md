@@ -3,16 +3,18 @@ A cpp  program made in Qt environment that primarily generates 'random' music us
 
 The program has 2 main functionalities: It can generate entirely 'random' music, or can generate music on top of an existing bass line. the program will output the result in a MIDI-file.
 
+<details>
+  <summary> Usecase, sequence and class diagrams</summary>
+      Usecase diagram: 
+      ![MuGen Usecase diagram](https://user-images.githubusercontent.com/63557739/121802253-b367e780-cc3b-11eb-93e7-25f0daa58589.png)
 
-Usecase diagram: 
-![MuGen Usecase diagram](https://user-images.githubusercontent.com/63557739/121802253-b367e780-cc3b-11eb-93e7-25f0daa58589.png)
+      Sequence diagram:
+      ![MuGen Sequence diagram](https://user-images.githubusercontent.com/63557739/121802304-dd210e80-cc3b-11eb-9273-ddb6e9257f76.jpg)
 
-Sequence diagram:
-![MuGen Sequence diagram](https://user-images.githubusercontent.com/63557739/121802304-dd210e80-cc3b-11eb-9273-ddb6e9257f76.jpg)
-
-Class diagram: 
-![MuGen  Class diagram](https://user-images.githubusercontent.com/63557739/121802294-d0041f80-cc3b-11eb-88e2-c9a187e43d20.png)
-
+      Class diagram: 
+      ![MuGen  Class diagram](https://user-images.githubusercontent.com/63557739/121802294-d0041f80-cc3b-11eb-88e2-c9a187e43d20.png)
+ 
+</details>
 
 
 # LINKS
