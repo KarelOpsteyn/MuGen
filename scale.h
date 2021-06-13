@@ -2,10 +2,10 @@
 #define SCALE_H
 #include<vector>
 
-class Scale //Is used to generate a scale
+class Scale //Is used to generate and hold a scale
 {
-    std::vector<int> Scalenotevals;
-    bool Ismajor;
+    std::vector<int> Scalenotevals; //holds 7 scalenotes
+    bool Ismajor;                   //if 1: scale is major, if 0: scale is minor
 public:
     Scale(int key, bool ismajor); //build up a major/minor scale using a rootnote ('key')
 

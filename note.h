@@ -6,7 +6,7 @@ class Note  //holds note information
     int Value;      //60 = C4 61=C4#
     int Length;     //120 = quarter
     int Velocity;   //80 = forte
-    int ScaleStep;  //1,3,5, position of note in teh scale relative to basnote
+    int ScaleStep;  //1,3,5, position of note in the scale relative to bassnote
 public:
     Note(int &val, int &len, int &vel, int scstep);
     Note(int &val, int &len);
