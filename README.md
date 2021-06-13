@@ -6,7 +6,7 @@ The program has 2 main functionalities: It can generate entirely 'random' music,
 for now it is capable of generating music using I, IV, V chords in all keys.
 
 # Usecase, class and sequence diagrams
-Note that these are not the cleanest of diagrams, but they do the job.
+Note that these are not the cleanest of diagrams, but they do the job. 
 
 Usecase diagram:  
 ![MuGen Class diagram](https://user-images.githubusercontent.com/63557739/121802253-b367e780-cc3b-11eb-93e7-25f0daa58589.png)
